@@ -1,0 +1,66 @@
+.body{
+    color:black;
+    background-color:palevioletred;
+}
+.red{
+    color:black;
+    margin: 2%;
+    text-align: center;
+}
+.container{
+    border: solid black;
+    background-color: pink;
+    padding-inline-end: 10px;
+    padding: auto;
+    margin: auto;
+}
+.button{
+        width: 10%;
+        background-color:silver;
+        padding:1% ;
+        margin: 2%;
+        border: solid;
+}
+
+
+.answer1{
+    color: black;
+    border: 3px solid black;
+    border-radius: 60px;
+    width:30%;
+    padding:20px;
+    margin: 20px;
+    
+    
+}
+
+.answer2{
+    color:black;
+    border: 3px solid black;
+    border-radius: 60px;
+    width:30%;
+    padding:20px;
+    margin: 20px;
+}
+
+.answer3{
+    color: black;
+    border: 3px solid black;
+    border-radius: 60px;
+    width:30%;
+    padding:20px;
+    margin: 20px;
+}
+
+.answer4{
+    color: black;
+    border: 3px solid black;
+    border-radius: 60px;
+    width:30%;
+    padding:20px;
+    margin: 20px;
+}
+h2{
+    padding: 0px;
+    margin: 2%;
+}
